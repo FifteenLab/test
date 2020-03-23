@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T03:16:20.012Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="tz5phlE2zCRMboDdWzVp" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T03:54:31.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="N9U_tJ2I0jTRQPazNspj" version="12.8.8" type="github">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
         <mxCell id="Tcv-U042ql_su6P7lc9l-96" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-94" target="Tcv-U042ql_su6P7lc9l-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tcv-U042ql_su6P7lc9l-94" value="设备" style="html=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="Tcv-U042ql_su6P7lc9l-94" value="设备" style="html=1;shadow=0;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="358.5" y="2240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-98" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-95" target="Tcv-U042ql_su6P7lc9l-97">
@@ -245,6 +245,9 @@
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-129" value="医生" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="2030" width="31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-137" value="账单" style="html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2420" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
