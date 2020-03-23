@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T08:45:32.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="QorXMjCtx5kIn2besBKe" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T08:48:17.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="kVOQ8BduFI-uS3Cdalai" version="12.8.8" type="github">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,6 +308,9 @@
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-167" value="审核体检单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="673" y="2348" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-171" value="机构用户" style="html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2290" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
