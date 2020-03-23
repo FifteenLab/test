@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T05:21:41.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7J_PPi_sVTJcYjhDcl98" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T05:56:43.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="S5T0PKYfI8B6DFEboNHM" version="12.8.8" type="github">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tcv-U042ql_su6P7lc9l-156" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2620" width="320" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-161" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3110" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-157" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3140" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-155" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2640" width="140" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-93" target="Tcv-U042ql_su6P7lc9l-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -251,6 +263,59 @@
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-138" value="多级代理商？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="2220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-139" value="云服务平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-141" target="Tcv-U042ql_su6P7lc9l-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="2850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-141" value="体检机A" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2680" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-142" target="Tcv-U042ql_su6P7lc9l-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-142" value="体检机B" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2830" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-146" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-143" target="Tcv-U042ql_su6P7lc9l-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-143" value="体检机C" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3040" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-147" target="Tcv-U042ql_su6P7lc9l-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-147" value="体检机D" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="3150" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-151" target="Tcv-U042ql_su6P7lc9l-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-151" value="体检机E" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3150" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-154" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tcv-U042ql_su6P7lc9l-153" target="Tcv-U042ql_su6P7lc9l-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-153" value="体检机F" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="3150" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-158" value="代理商A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="2630" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-159" value="体检医院A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-160" value="体检医院B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="3150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcv-U042ql_su6P7lc9l-165" value="二级代理商B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="3115" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
