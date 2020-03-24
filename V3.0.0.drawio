@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-24T01:27:45.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KU5FmWUc6VA24oE2ibPE" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-24T01:43:56.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="em0l_P7gZQ8vHZ7LvwV_" version="12.9.0" type="github">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,13 +139,13 @@
           <mxGeometry x="13" y="1290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-37" value="代理商" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1878" width="30" height="60" as="geometry" />
+          <mxGeometry x="93" y="1660" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-42" value="医院" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="384" y="1890" width="30" height="60" as="geometry" />
+          <mxGeometry x="337" y="1672" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-43" value="驾校或车管所" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1890" width="30" height="60" as="geometry" />
+          <mxGeometry x="603" y="1672" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tcv-U042ql_su6P7lc9l-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Tcv-U042ql_su6P7lc9l-55" target="Tcv-U042ql_su6P7lc9l-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -345,6 +345,27 @@
         </mxCell>
         <mxCell id="G3Qc2aBbD_7cWfgyPxFC-18" value="商户管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="143" y="2375" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Qc2aBbD_7cWfgyPxFC-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Qc2aBbD_7cWfgyPxFC-22" target="G3Qc2aBbD_7cWfgyPxFC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Qc2aBbD_7cWfgyPxFC-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Qc2aBbD_7cWfgyPxFC-22" target="G3Qc2aBbD_7cWfgyPxFC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Qc2aBbD_7cWfgyPxFC-22" value="企业机构" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Qc2aBbD_7cWfgyPxFC-25" value="设备" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="3540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Qc2aBbD_7cWfgyPxFC-23" value="用户" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3670" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Qc2aBbD_7cWfgyPxFC-30" value="N:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="3543" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Qc2aBbD_7cWfgyPxFC-31" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="3620" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
