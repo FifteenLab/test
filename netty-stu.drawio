@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-26T10:33:46.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ajoLy_B_ZqD4nZGSDelV" version="12.9.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-03-26T10:34:12.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="N1UzT_OXyF-ut1s4VnFF" version="12.9.3" type="github" pages="3">
   <diagram id="jNRD1-DXNJHHLxzeRADo" name="JDK I/O模型">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -781,54 +781,29 @@
     </mxGraphModel>
   </diagram>
   <diagram id="plVh8gK3BMTIoEnX_HFl" name="Netty">
-    
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      
       <root>
-        
         <mxCell id="GEG6VLGZd_rNW2T7w5Xt-0" />
-        
         <mxCell id="GEG6VLGZd_rNW2T7w5Xt-1" parent="GEG6VLGZd_rNW2T7w5Xt-0" />
-        
-        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GEG6VLGZd_rNW2T7w5Xt-1">
-          
+        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="GEG6VLGZd_rNW2T7w5Xt-1" vertex="1">
           <mxGeometry x="120" y="30" width="510" height="420" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-3" value="TCP/IP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="GEG6VLGZd_rNW2T7w5Xt-1">
-          
+        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-3" value="TCP/IP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="GEG6VLGZd_rNW2T7w5Xt-1" vertex="1">
           <mxGeometry x="180" y="320" width="370" height="80" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-4" value="原生JDK IO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="GEG6VLGZd_rNW2T7w5Xt-1">
-          
+        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-4" value="原生JDK IO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" parent="GEG6VLGZd_rNW2T7w5Xt-1" vertex="1">
           <mxGeometry x="180" y="240" width="370" height="80" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-5" value="NIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="GEG6VLGZd_rNW2T7w5Xt-1">
-          
+        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-5" value="NIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="GEG6VLGZd_rNW2T7w5Xt-1" vertex="1">
           <mxGeometry x="180" y="160" width="370" height="80" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-6" value="Netty" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="GEG6VLGZd_rNW2T7w5Xt-1">
-          
+        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-6" value="Netty" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="GEG6VLGZd_rNW2T7w5Xt-1" vertex="1">
           <mxGeometry x="180" y="80" width="370" height="80" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-7" value="Netty 架构体系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="GEG6VLGZd_rNW2T7w5Xt-1">
-          
+        <mxCell id="GEG6VLGZd_rNW2T7w5Xt-7" value="Netty 架构体系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="GEG6VLGZd_rNW2T7w5Xt-1" vertex="1">
           <mxGeometry x="130" y="40" width="90" height="20" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
