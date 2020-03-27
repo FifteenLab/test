@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-27T06:41:41.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="QPc8Uc4nUxJhZBn5BR4i" version="12.9.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-03-27T06:55:00.068Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="5oecVUgToSRWxIkCmGHd" version="12.9.3" type="github" pages="5">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1004,25 +1004,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="IjZ41WbL_7pDOATE9xSe" name="用例">
-    
+  <diagram id="IjZ41WbL_7pDOATE9xSe" name="用户中心用例">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      
       <root>
-        
         <mxCell id="Kd_pY0mwi6yZYGO60LD8-0" />
-        
         <mxCell id="Kd_pY0mwi6yZYGO60LD8-1" parent="Kd_pY0mwi6yZYGO60LD8-0" />
-        
-        <mxCell id="Kd_pY0mwi6yZYGO60LD8-2" value="设备出库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Kd_pY0mwi6yZYGO60LD8-1">
-          
-          <mxGeometry x="117" y="122" width="60" height="20" as="geometry" />
-          
-        </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
