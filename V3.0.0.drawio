@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-27T10:06:04.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="XaoeF3w-3P5fzxCiKSCm" version="12.9.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-04-16T09:00:07.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="KzK0ztG6X00jCmvN4qCA" version="12.9.13" type="github" pages="6">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
-    <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -971,7 +971,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LAOLd--T0fy6_GtwlCn-" name="设备数据模型">
-    <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rbGIlQpz2LvFPX6IQw-_-0" />
         <mxCell id="rbGIlQpz2LvFPX6IQw-_-1" parent="rbGIlQpz2LvFPX6IQw-_-0" />
@@ -1222,18 +1222,68 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IjZ41WbL_7pDOATE9xSe" name="用户中心用例">
-    
-    <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      
+    <mxGraphModel dx="1186" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        
         <mxCell id="Kd_pY0mwi6yZYGO60LD8-0" />
-        
         <mxCell id="Kd_pY0mwi6yZYGO60LD8-1" parent="Kd_pY0mwi6yZYGO60LD8-0" />
-        
       </root>
-      
     </mxGraphModel>
-    
+  </diagram>
+  <diagram id="qN3a_De1CQNs2mda2M0P" name="订单数据模型">
+    <mxGraphModel dx="1186" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-0" />
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-1" parent="OBgTtu4OX53MFzFGrJfW-0" />
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="163" y="170" width="440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="OBgTtu4OX53MFzFGrJfW-2" target="OBgTtu4OX53MFzFGrJfW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-9" value="体检" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OBgTtu4OX53MFzFGrJfW-8">
+          <mxGeometry x="-0.275" y="-2" relative="1" as="geometry">
+            <mxPoint x="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-11" value="照相" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="OBgTtu4OX53MFzFGrJfW-2" target="OBgTtu4OX53MFzFGrJfW-10">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="OBgTtu4OX53MFzFGrJfW-2" target="OBgTtu4OX53MFzFGrJfW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-2" value="系统生成对应的业务订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="244" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-12" value="业务订单详情&lt;br&gt;对应收费项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="463" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-7" value="体检信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="173.5" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="OBgTtu4OX53MFzFGrJfW-3" target="OBgTtu4OX53MFzFGrJfW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-3" value="用户选择业务&lt;br&gt;仅体检&lt;br&gt;体检+拍照&lt;br&gt;仅拍照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="24" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-10" value="照相信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="314.5" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="OBgTtu4OX53MFzFGrJfW-14" target="OBgTtu4OX53MFzFGrJfW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-14" value="分账支付&lt;br&gt;各个收费项目分开付款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="684" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="OBgTtu4OX53MFzFGrJfW-16" target="OBgTtu4OX53MFzFGrJfW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OBgTtu4OX53MFzFGrJfW-16" value="统一支付&lt;br&gt;多个收费项目一起付款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+          <mxGeometry x="673" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
   </diagram>
 </mxfile>
