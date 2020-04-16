@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T09:00:07.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="KzK0ztG6X00jCmvN4qCA" version="12.9.13" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-04-16T09:00:16.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="UMOAjG_22gZnw2OePnX3" version="12.9.13" type="github" pages="6">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1275,7 +1275,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OBgTtu4OX53MFzFGrJfW-14" value="分账支付&lt;br&gt;各个收费项目分开付款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
-          <mxGeometry x="684" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="673" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OBgTtu4OX53MFzFGrJfW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="OBgTtu4OX53MFzFGrJfW-16" target="OBgTtu4OX53MFzFGrJfW-12">
           <mxGeometry relative="1" as="geometry" />
