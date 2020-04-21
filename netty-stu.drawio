@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T09:42:37.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="8IXiJ52IUt7PAZvco7FD" version="12.9.13" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-04-21T09:43:35.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="68ho3Hfgs4Rf1JkPA0nz" version="12.9.13" type="github" pages="6">
   <diagram id="jNRD1-DXNJHHLxzeRADo" name="JDK I/O模型">
     <mxGraphModel dx="1186" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1666,11 +1666,6 @@
         <mxCell id="-aHfeXLp1B2ZaomUBJl4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-aHfeXLp1B2ZaomUBJl4-1" source="-aHfeXLp1B2ZaomUBJl4-3" target="-aHfeXLp1B2ZaomUBJl4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-aHfeXLp1B2ZaomUBJl4-15" value="encoder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-aHfeXLp1B2ZaomUBJl4-5">
-          <mxGeometry x="-0.04" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-aHfeXLp1B2ZaomUBJl4-3" value="业务数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-aHfeXLp1B2ZaomUBJl4-1">
           <mxGeometry x="34" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1682,16 +1677,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-aHfeXLp1B2ZaomUBJl4-4" value="字节码数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-aHfeXLp1B2ZaomUBJl4-1">
+        <mxCell id="-aHfeXLp1B2ZaomUBJl4-4" value="编码器&lt;br&gt;encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-aHfeXLp1B2ZaomUBJl4-1">
           <mxGeometry x="224" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aHfeXLp1B2ZaomUBJl4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-aHfeXLp1B2ZaomUBJl4-1" source="-aHfeXLp1B2ZaomUBJl4-6" target="-aHfeXLp1B2ZaomUBJl4-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-aHfeXLp1B2ZaomUBJl4-13" value="decoder" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-aHfeXLp1B2ZaomUBJl4-1" source="-aHfeXLp1B2ZaomUBJl4-6" target="-aHfeXLp1B2ZaomUBJl4-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-aHfeXLp1B2ZaomUBJl4-6" value="字节码数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-aHfeXLp1B2ZaomUBJl4-1">
+        <mxCell id="-aHfeXLp1B2ZaomUBJl4-6" value="解码器&lt;br&gt;decoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-aHfeXLp1B2ZaomUBJl4-1">
           <mxGeometry x="487" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aHfeXLp1B2ZaomUBJl4-10" value="业务数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-aHfeXLp1B2ZaomUBJl4-1">
