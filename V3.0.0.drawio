@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-09T07:24:14.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="VzoBMggqeBJ2O-cOcw-_" version="13.0.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-05-09T07:25:33.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="x2ubs93dhT33KpW4lvHm" version="13.0.9" type="github" pages="7">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1524,7 +1524,7 @@
         <mxCell id="JuanIHDFu8LlAcb96f9s-77" value="打印小票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
           <mxGeometry x="508.75" y="1109" width="122" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JuanIHDFu8LlAcb96f9s-80" value="打印小票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
+        <mxCell id="JuanIHDFu8LlAcb96f9s-80" value="打印小票" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
           <mxGeometry x="-270" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JuanIHDFu8LlAcb96f9s-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OBgTtu4OX53MFzFGrJfW-1" source="JuanIHDFu8LlAcb96f9s-45" target="JuanIHDFu8LlAcb96f9s-80">
@@ -1539,7 +1539,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JuanIHDFu8LlAcb96f9s-89" value="&lt;h1&gt;有关分账收款的优化建议&lt;/h1&gt;&lt;p&gt;现有系统业务流程：&lt;/p&gt;&lt;p&gt;&lt;span&gt;分账收款的情况下，当体检用户完成体检费用支付并返回首页后，系统并不判定改体检业务已完成支付。当用户再次刷身份证，还可以继续完成照相费用支付。当且仅当用户完成照相费用支付后，才能打印小票。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;建议改为：&lt;/p&gt;&lt;p&gt;分账收款的请款下，当体检用户完成体检费用支付后，可选择继续支付或退出。如果用户选择退出，则认为该体检业务已完成支付并打印小票。&lt;/p&gt;&lt;p&gt;针对想引导用户打印照片并支付照片费用的情况，应由工作人员引导用户使用仅照相业务，完成支付并打印照片。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="OBgTtu4OX53MFzFGrJfW-1">
-          <mxGeometry x="-660" y="900" width="370" height="260" as="geometry" />
+          <mxGeometry x="-670" y="909" width="370" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
