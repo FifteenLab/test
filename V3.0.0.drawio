@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T06:00:12.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="QOUrB51vpmCwsB0QSUCM" version="13.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-05-19T09:43:31.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="f0O5aGRKX2KpuRnkbazk" version="13.1.1" type="github" pages="7">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -622,7 +622,7 @@
     
   </diagram>
   <diagram id="JntxewIZbQWIKkkiLOhw" name="用户体系模型">
-    <mxGraphModel dx="1166" dy="-1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="-1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BqHHWL4rI0dHbYfqRM3C-0" />
         <mxCell id="BqHHWL4rI0dHbYfqRM3C-1" parent="BqHHWL4rI0dHbYfqRM3C-0" />
@@ -1043,8 +1043,38 @@
         <mxCell id="GsDwzbL2qhn07PXUTQB6-28" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
           <mxGeometry x="288" y="5110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GsDwzbL2qhn07PXUTQB6-38" value="用户权限控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
-          <mxGeometry x="88" y="5443" width="90" height="20" as="geometry" />
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-40" value="权限控制&lt;br&gt;1. 都有哪些权限？&lt;br&gt;2. 如何控制？&lt;br&gt;3. 怎么分配？&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="39.5" y="5390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-41" value="账号管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="54.5" y="5500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-46" value="用户如何创建？由谁来创建？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="55" y="5560" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-47" value="设备管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="53" y="5620" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-50" value="设备权限如何控制？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="55" y="5680" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-51" value="功能配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="54.5" y="5730" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-52" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="53" y="5840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-53" value="信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="452" y="5500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-54" value="体检单审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="452" y="5620" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-55" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="245" y="5420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-56" value="代理伙伴" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+          <mxGeometry x="170" y="5420" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
