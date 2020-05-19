@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T03:16:37.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="kpoKicFIEcv-zMTUAGwa" version="13.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-05-19T03:40:11.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="x9mCYGvl53sFnncfCaPJ" version="13.1.1" type="github" pages="7">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,7 +626,7 @@
       <root>
         <mxCell id="BqHHWL4rI0dHbYfqRM3C-0" />
         <mxCell id="BqHHWL4rI0dHbYfqRM3C-1" parent="BqHHWL4rI0dHbYfqRM3C-0" />
-        <mxCell id="GsDwzbL2qhn07PXUTQB6-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-33" value="体检机审核业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
           <mxGeometry x="263" y="4950" width="167" height="250" as="geometry" />
         </mxCell>
         <mxCell id="3wrc7XZFp69W-74FpE_M-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="BqHHWL4rI0dHbYfqRM3C-1" vertex="1">
@@ -1032,9 +1032,9 @@
         <mxCell id="GsDwzbL2qhn07PXUTQB6-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BqHHWL4rI0dHbYfqRM3C-1" source="GsDwzbL2qhn07PXUTQB6-25" target="GsDwzbL2qhn07PXUTQB6-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GsDwzbL2qhn07PXUTQB6-30" value="审核医生认证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GsDwzbL2qhn07PXUTQB6-29">
+        <mxCell id="GsDwzbL2qhn07PXUTQB6-30" value="医生认证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GsDwzbL2qhn07PXUTQB6-29">
           <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-15" as="offset" />
+            <mxPoint x="-1" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GsDwzbL2qhn07PXUTQB6-25" value="子账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BqHHWL4rI0dHbYfqRM3C-1">
