@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-21T07:40:12.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="0UBe9eLkeDF5u2w9GZle" version="13.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-05-22T10:32:26.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="A7jM4wcAzosCoQo582qe" version="13.1.3" type="github" pages="8">
   <diagram id="oah8V0raFj00rVzEYC6E" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3030,17 +3030,91 @@
         <mxCell id="CYzvVXPz1UCY8STBa5qK-30" value="企业用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="yDU1hZvCrj9UafQqAYEQ-1" vertex="1">
           <mxGeometry x="130" y="6530" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z3aS6bkCey9LNQ0aeOAb-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yDU1hZvCrj9UafQqAYEQ-1" source="z3aS6bkCey9LNQ0aeOAb-0" target="z3aS6bkCey9LNQ0aeOAb-1">
+        <mxCell id="z3aS6bkCey9LNQ0aeOAb-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yDU1hZvCrj9UafQqAYEQ-1" source="z3aS6bkCey9LNQ0aeOAb-0" target="z3aS6bkCey9LNQ0aeOAb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z3aS6bkCey9LNQ0aeOAb-0" value="设备管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yDU1hZvCrj9UafQqAYEQ-1">
+        <mxCell id="z3aS6bkCey9LNQ0aeOAb-0" value="设备管理" style="ellipse;whiteSpace=wrap;html=1;" parent="yDU1hZvCrj9UafQqAYEQ-1" vertex="1">
           <mxGeometry x="294" y="6190" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z3aS6bkCey9LNQ0aeOAb-1" value="设备状态监控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yDU1hZvCrj9UafQqAYEQ-1">
+        <mxCell id="z3aS6bkCey9LNQ0aeOAb-1" value="设备状态监控" style="ellipse;whiteSpace=wrap;html=1;" parent="yDU1hZvCrj9UafQqAYEQ-1" vertex="1">
           <mxGeometry x="448" y="6140" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z3aS6bkCey9LNQ0aeOAb-4" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yDU1hZvCrj9UafQqAYEQ-1">
+        <mxCell id="z3aS6bkCey9LNQ0aeOAb-4" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" parent="yDU1hZvCrj9UafQqAYEQ-1" vertex="1">
           <mxGeometry x="304" y="5970" width="86" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rCssLAkj5hUhBPTqyD1U" name="Page-8">
+    <mxGraphModel dx="1186" dy="-7522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-0" />
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-1" parent="WVmxnGiqnIitaKB3ssfT-0" />
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-34" value="新系统现在只有超级管理员用户，需要创建一个用户" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="40" y="8230" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WVmxnGiqnIitaKB3ssfT-1" source="WVmxnGiqnIitaKB3ssfT-36" target="WVmxnGiqnIitaKB3ssfT-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-36" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="49" y="8280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WVmxnGiqnIitaKB3ssfT-1" source="WVmxnGiqnIitaKB3ssfT-38" target="WVmxnGiqnIitaKB3ssfT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-38" value="创建用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="144" y="8280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-39" value="企业用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="344" y="8280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-40" value="用户完成创建，用户可以登录平台，用户可以做哪些事情呢？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="40" y="8400" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WVmxnGiqnIitaKB3ssfT-1" source="WVmxnGiqnIitaKB3ssfT-41" target="WVmxnGiqnIitaKB3ssfT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WVmxnGiqnIitaKB3ssfT-1" source="WVmxnGiqnIitaKB3ssfT-41" target="WVmxnGiqnIitaKB3ssfT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WVmxnGiqnIitaKB3ssfT-1" source="WVmxnGiqnIitaKB3ssfT-41" target="WVmxnGiqnIitaKB3ssfT-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-41" value="企业用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="40" y="8615" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-45" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="144" y="8475" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-47" value="创建子账号&lt;br&gt;给子账号设置权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="149" y="8610" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;" edge="1" parent="WVmxnGiqnIitaKB3ssfT-1" source="WVmxnGiqnIitaKB3ssfT-49" target="WVmxnGiqnIitaKB3ssfT-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-49" value="管理设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="149" y="8750" width="111" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-51" value="因为现在用户下还没有任何设备，&lt;br&gt;所以当前设备列表是空的" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;gradientDirection=east;dashed=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="320" y="8770" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-55" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;权限策略：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 支付账户控制权限&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 支付账户只读权限&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 子账户控制权限&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;4. 之账户只读权限&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;5. 全部设备控制权限&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;6. 全部设备只读权限&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;gradientDirection=east;dashed=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="320" y="8580" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WVmxnGiqnIitaKB3ssfT-1" source="WVmxnGiqnIitaKB3ssfT-47" target="WVmxnGiqnIitaKB3ssfT-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="252.21400282832155" y="8769.322381053058" as="sourcePoint" />
+            <mxPoint x="309" y="8731" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-57" value="在没有设备的情况下，用户登录平台其实是没有实际意义的。那么设备又是如何分配给用户的呢？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="49" y="8850" width="530" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-58" value="设备代理商如何处理？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="520" y="8420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WVmxnGiqnIitaKB3ssfT-59" value="修改业务配置时为了方便处理可以考虑批量修改" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WVmxnGiqnIitaKB3ssfT-1">
+          <mxGeometry x="520" y="8545" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
